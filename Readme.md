@@ -63,11 +63,9 @@ This repository contains the fundamentals of Git&GitHub. This is assigned as int
 
 ### Pull Request
 ![Pull Request Creation](ScreenShots/Task%201.2%20Pull%20request.png)
-*Screenshot demonstrating the pull request workflow for week2-practice branch*
 
 ###  Delete Branch
 ![First Contribution](ScreenShots/Task%201.2%20delete%20branch.png)
-*Screenshot of successful contribution to the first-contributions repository*
 
 ##  Contact Information
 
